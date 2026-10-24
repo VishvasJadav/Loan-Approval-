@@ -1,3 +1,9 @@
+# streanlit app link
+```
+https://cntysvh5mwfbpltupv2nnf.streamlit.app/
+``` 
+
+
 # loan Approval Calssification
 ### Project Setup:
 1) Create Virtual Enviroment:
