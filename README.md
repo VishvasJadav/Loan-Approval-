@@ -1,4 +1,4 @@
-# streanlit app link
+# Streamlit app link
 ```
 https://cntysvh5mwfbpltupv2nnf.streamlit.app/
 ``` 
