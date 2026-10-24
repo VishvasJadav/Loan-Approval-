@@ -15,7 +15,7 @@ with st.sidebar:
 
 
 #load the model (model deserialization)
-with open("Best_model/best_model_pipeline.pkl","rb") as file:
+with open("Best_Model/best_model_pipeline.pkl","rb") as file:
     best_pipeline = pickle.load(file)
 
 #load the dataset
